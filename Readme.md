@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Егоров](https://up.htmlacademy.ru/javascript/19/user/1177901).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Бородин](https://htmlacademy.ru/profile/id1092697).
 
 ---
 
